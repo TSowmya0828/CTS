@@ -1,0 +1,688 @@
+10:28:09.437 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:28:09.476 [main] DEBUG - Save content types part
+10:28:09.479 [main] DEBUG - Save package relationships
+10:28:09.482 [main] DEBUG - Save part 'docProps/app.xml'
+10:28:09.482 [main] DEBUG - Save part 'docProps/core.xml'
+10:28:09.486 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:28:09.486 [main] DEBUG - Save part 'xl/styles.xml'
+10:28:09.487 [main] DEBUG - Save part 'xl/workbook.xml'
+10:28:09.489 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:28:09.768 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+10:28:14.326 [main] INFO  - Navigated to the Used Cars Page
+10:28:16.999 [main] DEBUG - Save core properties part
+10:28:16.999 [main] DEBUG - Save content types part
+10:28:17.003 [main] DEBUG - Save package relationships
+10:28:17.005 [main] DEBUG - Save part 'docProps/app.xml'
+10:28:17.006 [main] DEBUG - Save part 'docProps/core.xml'
+10:28:17.008 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:28:17.009 [main] DEBUG - Save part 'xl/styles.xml'
+10:28:17.009 [main] DEBUG - Save part 'xl/workbook.xml'
+10:28:17.012 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:28:17.014 [main] DEBUG - Save content types part
+10:28:17.016 [main] DEBUG - Save package relationships
+10:28:17.018 [main] DEBUG - Save part 'docProps/app.xml'
+10:28:17.019 [main] DEBUG - Save part 'docProps/core.xml'
+10:28:17.021 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:28:17.022 [main] DEBUG - Save part 'xl/styles.xml'
+10:28:17.022 [main] DEBUG - Save part 'xl/workbook.xml'
+10:28:17.024 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:28:18.542 [main] INFO  - User is On ZigWheels Home Page
+10:28:20.439 [main] INFO  - User is On Login Window
+10:28:22.559 [main] INFO  - User is On Google Account Login
+10:31:29.666 [main] INFO  - Navigated to the the ZigWheels Website
+10:31:32.972 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+10:31:35.462 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:31:35.468 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:31:35.469 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:31:35.470 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:31:35.471 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:31:35.472 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:31:35.490 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:31:35.492 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:31:35.499 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:31:35.506 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:31:35.508 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:31:35.510 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:31:35.511 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:31:35.514 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:31:35.586 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:31:35.587 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:31:35.671 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+10:31:35.691 [main] TRACE - Resolving type for handle ctbookviewsb864type
+10:31:35.696 [main] TRACE - Resolving type for handle ctbookviewf677type
+10:31:35.708 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:31:35.712 [main] TRACE - Resolving type for handle propertiesee84doctype
+10:31:35.716 [main] TRACE - Resolving type for handle ctproperties3f10type
+10:31:35.736 [main] TRACE - Resolving type for handle properties288cdoctype
+10:31:35.741 [main] TRACE - Resolving type for handle ctproperties2c18type
+10:31:35.752 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:31:35.756 [main] TRACE - Resolving type for handle ctsst44f3type
+10:31:35.763 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:31:35.765 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:31:35.771 [main] TRACE - Resolving type for handle ctfont14d8type
+10:31:35.784 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+10:31:35.791 [main] TRACE - Resolving type for handle ctcolord2c2type
+10:31:35.795 [main] TRACE - Resolving type for handle ctfontname2dc3type
+10:31:35.798 [main] TRACE - Resolving type for handle stxstringf179type
+10:31:35.801 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+10:31:35.804 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+10:31:35.808 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+10:31:35.814 [main] TRACE - Resolving type for handle stfontschemef36dtype
+10:31:35.819 [main] TRACE - Resolving type for handle ctfill550ctype
+10:31:35.821 [main] TRACE - Resolving type for handle ctpatternfill7452type
+10:31:35.826 [main] TRACE - Resolving type for handle stpatterntype7939type
+10:31:35.830 [main] TRACE - Resolving type for handle ctborderf935type
+10:31:35.834 [main] TRACE - Resolving type for handle ctborderpre497type
+10:31:35.840 [main] TRACE - Resolving type for handle ctxf97f7type
+10:31:35.845 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+10:31:35.847 [main] TRACE - Resolving type for handle stfontid9d63type
+10:31:35.848 [main] TRACE - Resolving type for handle stfillida097type
+10:31:35.850 [main] TRACE - Resolving type for handle stborderid1a80type
+10:31:35.852 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+10:31:35.858 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:31:35.865 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:31:35.873 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+10:31:35.882 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+10:31:35.885 [main] TRACE - Resolving type for handle ctsheetview0f43type
+10:31:35.900 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+10:31:35.903 [main] TRACE - Resolving type for handle stref90a2type
+10:31:35.906 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:31:35.908 [main] TRACE - Resolving type for handle ctpagemargins5455type
+10:31:35.917 [main] TRACE - Resolving type for handle ctcols627ctype
+10:31:35.921 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:31:35.927 [main] TRACE - Resolving type for handle ctrowdd39type
+10:31:35.936 [main] TRACE - Resolving type for handle ctcell842btype
+10:31:35.948 [main] TRACE - Resolving type for handle stcellrefe4e0type
+10:31:35.953 [main] TRACE - Resolving type for handle ctrsta472type
+10:31:35.956 [main] TRACE - Resolving type for handle stcelltypebf95type
+10:31:36.126 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+10:31:36.129 [main] TRACE - Resolving type for handle ctfonts6623type
+10:31:36.135 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:31:36.139 [main] TRACE - Resolving type for handle ctborders0d66type
+10:31:36.143 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:31:36.146 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:31:36.178 [main] DEBUG - Save core properties part
+10:31:36.178 [main] DEBUG - Save content types part
+10:31:36.299 [main] DEBUG - Save package relationships
+10:31:36.312 [main] DEBUG - Save part 'docProps/app.xml'
+10:31:36.317 [main] DEBUG - Save part 'docProps/core.xml'
+10:31:36.326 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:31:36.327 [main] DEBUG - Save part 'xl/styles.xml'
+10:31:36.327 [main] DEBUG - Save part 'xl/workbook.xml'
+10:31:36.330 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:31:36.354 [main] DEBUG - Save content types part
+10:31:36.357 [main] DEBUG - Save package relationships
+10:31:36.359 [main] DEBUG - Save part 'docProps/app.xml'
+10:31:36.359 [main] DEBUG - Save part 'docProps/core.xml'
+10:31:36.362 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:31:36.363 [main] DEBUG - Save part 'xl/styles.xml'
+10:31:36.363 [main] DEBUG - Save part 'xl/workbook.xml'
+10:31:36.366 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:31:36.641 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+10:31:41.199 [main] INFO  - Navigated to the Used Cars Page
+10:31:44.713 [main] DEBUG - Save core properties part
+10:31:44.713 [main] DEBUG - Save content types part
+10:31:44.716 [main] DEBUG - Save package relationships
+10:31:44.717 [main] DEBUG - Save part 'docProps/app.xml'
+10:31:44.719 [main] DEBUG - Save part 'docProps/core.xml'
+10:31:44.721 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:31:44.722 [main] DEBUG - Save part 'xl/styles.xml'
+10:31:44.722 [main] DEBUG - Save part 'xl/workbook.xml'
+10:31:44.726 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:31:44.728 [main] DEBUG - Save content types part
+10:31:44.729 [main] DEBUG - Save package relationships
+10:31:44.732 [main] DEBUG - Save part 'docProps/app.xml'
+10:31:44.732 [main] DEBUG - Save part 'docProps/core.xml'
+10:31:44.734 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:31:44.734 [main] DEBUG - Save part 'xl/styles.xml'
+10:31:44.734 [main] DEBUG - Save part 'xl/workbook.xml'
+10:31:44.737 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:31:46.167 [main] INFO  - User is On ZigWheels Home Page
+10:31:47.989 [main] INFO  - User is On Login Window
+10:31:50.426 [main] INFO  - User is On Google Account Login
+10:47:31.960 [main] INFO  - Navigated to the the ZigWheels Website
+10:47:35.369 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+10:47:37.864 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:47:37.869 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:47:37.870 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:47:37.870 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:47:37.871 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:47:37.874 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:47:37.894 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:47:37.901 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:47:37.941 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:47:37.945 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:47:37.948 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:47:37.950 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:47:37.951 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:47:37.953 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:47:38.044 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:47:38.046 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:47:38.148 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+10:47:38.162 [main] TRACE - Resolving type for handle ctbookviewsb864type
+10:47:38.165 [main] TRACE - Resolving type for handle ctbookviewf677type
+10:47:38.176 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:47:38.181 [main] TRACE - Resolving type for handle propertiesee84doctype
+10:47:38.184 [main] TRACE - Resolving type for handle ctproperties3f10type
+10:47:38.201 [main] TRACE - Resolving type for handle properties288cdoctype
+10:47:38.202 [main] TRACE - Resolving type for handle ctproperties2c18type
+10:47:38.211 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:47:38.214 [main] TRACE - Resolving type for handle ctsst44f3type
+10:47:38.221 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:47:38.224 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:47:38.231 [main] TRACE - Resolving type for handle ctfont14d8type
+10:47:38.242 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+10:47:38.248 [main] TRACE - Resolving type for handle ctcolord2c2type
+10:47:38.251 [main] TRACE - Resolving type for handle ctfontname2dc3type
+10:47:38.253 [main] TRACE - Resolving type for handle stxstringf179type
+10:47:38.257 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+10:47:38.260 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+10:47:38.266 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+10:47:38.270 [main] TRACE - Resolving type for handle stfontschemef36dtype
+10:47:38.276 [main] TRACE - Resolving type for handle ctfill550ctype
+10:47:38.279 [main] TRACE - Resolving type for handle ctpatternfill7452type
+10:47:38.285 [main] TRACE - Resolving type for handle stpatterntype7939type
+10:47:38.289 [main] TRACE - Resolving type for handle ctborderf935type
+10:47:38.293 [main] TRACE - Resolving type for handle ctborderpre497type
+10:47:38.300 [main] TRACE - Resolving type for handle ctxf97f7type
+10:47:38.304 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+10:47:38.307 [main] TRACE - Resolving type for handle stfontid9d63type
+10:47:38.309 [main] TRACE - Resolving type for handle stfillida097type
+10:47:38.310 [main] TRACE - Resolving type for handle stborderid1a80type
+10:47:38.313 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+10:47:38.322 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:47:38.333 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:47:38.343 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+10:47:38.354 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+10:47:38.359 [main] TRACE - Resolving type for handle ctsheetview0f43type
+10:47:38.369 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+10:47:38.372 [main] TRACE - Resolving type for handle stref90a2type
+10:47:38.374 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:47:38.378 [main] TRACE - Resolving type for handle ctpagemargins5455type
+10:47:38.388 [main] TRACE - Resolving type for handle ctcols627ctype
+10:47:38.390 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:47:38.394 [main] TRACE - Resolving type for handle ctrowdd39type
+10:47:38.404 [main] TRACE - Resolving type for handle ctcell842btype
+10:47:38.416 [main] TRACE - Resolving type for handle stcellrefe4e0type
+10:47:38.420 [main] TRACE - Resolving type for handle ctrsta472type
+10:47:38.424 [main] TRACE - Resolving type for handle stcelltypebf95type
+10:47:38.611 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+10:47:38.616 [main] TRACE - Resolving type for handle ctfonts6623type
+10:47:38.623 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:47:38.628 [main] TRACE - Resolving type for handle ctborders0d66type
+10:47:38.632 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:47:38.637 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:47:38.669 [main] DEBUG - Save core properties part
+10:47:38.669 [main] DEBUG - Save content types part
+10:47:38.800 [main] DEBUG - Save package relationships
+10:47:38.811 [main] DEBUG - Save part 'docProps/app.xml'
+10:47:38.817 [main] DEBUG - Save part 'docProps/core.xml'
+10:47:38.827 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:47:38.828 [main] DEBUG - Save part 'xl/styles.xml'
+10:47:38.829 [main] DEBUG - Save part 'xl/workbook.xml'
+10:47:38.831 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:47:38.856 [main] DEBUG - Save content types part
+10:47:38.859 [main] DEBUG - Save package relationships
+10:47:38.861 [main] DEBUG - Save part 'docProps/app.xml'
+10:47:38.861 [main] DEBUG - Save part 'docProps/core.xml'
+10:47:38.864 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+10:47:38.866 [main] DEBUG - Save part 'xl/styles.xml'
+10:47:38.866 [main] DEBUG - Save part 'xl/workbook.xml'
+10:47:38.869 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+10:47:39.144 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+10:47:43.346 [main] INFO  - Navigated to the Used Cars Page
+10:47:49.837 [main] INFO  - User is On ZigWheels Home Page
+10:47:51.639 [main] INFO  - User is On Login Window
+10:47:54.079 [main] INFO  - User is On Google Account Login
+11:05:28.440 [main] INFO  - Navigated to the the ZigWheels Website
+11:05:31.680 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+11:05:34.561 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:05:34.576 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:05:34.579 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:05:34.581 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:05:34.583 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:05:34.592 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:05:34.640 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:05:34.644 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:05:34.658 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:05:34.663 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:05:34.665 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:05:34.671 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:05:34.675 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:05:34.679 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:05:34.846 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:05:34.848 [main] TRACE - Resolving type for handle ctworkbook83c3type
+11:05:34.970 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+11:05:34.994 [main] TRACE - Resolving type for handle ctbookviewsb864type
+11:05:34.997 [main] TRACE - Resolving type for handle ctbookviewf677type
+11:05:35.013 [main] TRACE - Resolving type for handle ctsheets49fdtype
+11:05:35.020 [main] TRACE - Resolving type for handle propertiesee84doctype
+11:05:35.025 [main] TRACE - Resolving type for handle ctproperties3f10type
+11:05:35.036 [main] TRACE - Resolving type for handle properties288cdoctype
+11:05:35.038 [main] TRACE - Resolving type for handle ctproperties2c18type
+11:05:35.054 [main] TRACE - Resolving type for handle sstf81fdoctype
+11:05:35.057 [main] TRACE - Resolving type for handle ctsst44f3type
+11:05:35.066 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+11:05:35.069 [main] TRACE - Resolving type for handle ctstylesheet4257type
+11:05:35.076 [main] TRACE - Resolving type for handle ctfont14d8type
+11:05:35.092 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+11:05:35.101 [main] TRACE - Resolving type for handle ctcolord2c2type
+11:05:35.106 [main] TRACE - Resolving type for handle ctfontname2dc3type
+11:05:35.109 [main] TRACE - Resolving type for handle stxstringf179type
+11:05:35.116 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+11:05:35.118 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+11:05:35.126 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+11:05:35.132 [main] TRACE - Resolving type for handle stfontschemef36dtype
+11:05:35.139 [main] TRACE - Resolving type for handle ctfill550ctype
+11:05:35.143 [main] TRACE - Resolving type for handle ctpatternfill7452type
+11:05:35.150 [main] TRACE - Resolving type for handle stpatterntype7939type
+11:05:35.157 [main] TRACE - Resolving type for handle ctborderf935type
+11:05:35.161 [main] TRACE - Resolving type for handle ctborderpre497type
+11:05:35.171 [main] TRACE - Resolving type for handle ctxf97f7type
+11:05:35.176 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+11:05:35.180 [main] TRACE - Resolving type for handle stfontid9d63type
+11:05:35.184 [main] TRACE - Resolving type for handle stfillida097type
+11:05:35.189 [main] TRACE - Resolving type for handle stborderid1a80type
+11:05:35.194 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+11:05:35.207 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:05:35.217 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:05:35.227 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:05:35.240 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:05:35.244 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:05:35.257 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:05:35.259 [main] TRACE - Resolving type for handle stref90a2type
+11:05:35.263 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:05:35.267 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:05:35.276 [main] TRACE - Resolving type for handle ctcols627ctype
+11:05:35.279 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:05:35.284 [main] TRACE - Resolving type for handle ctrowdd39type
+11:05:35.293 [main] TRACE - Resolving type for handle ctcell842btype
+11:05:35.308 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:05:35.313 [main] TRACE - Resolving type for handle ctrsta472type
+11:05:35.317 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:05:35.503 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:05:35.507 [main] TRACE - Resolving type for handle ctfonts6623type
+11:05:35.514 [main] TRACE - Resolving type for handle ctfills2c6ftype
+11:05:35.519 [main] TRACE - Resolving type for handle ctborders0d66type
+11:05:35.522 [main] TRACE - Resolving type for handle ctcellxfs1322type
+11:05:35.527 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+11:05:35.558 [main] DEBUG - Save core properties part
+11:05:35.558 [main] DEBUG - Save content types part
+11:05:35.703 [main] DEBUG - Save package relationships
+11:05:35.714 [main] DEBUG - Save part 'docProps/app.xml'
+11:05:35.719 [main] DEBUG - Save part 'docProps/core.xml'
+11:05:35.730 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:05:35.731 [main] DEBUG - Save part 'xl/styles.xml'
+11:05:35.731 [main] DEBUG - Save part 'xl/workbook.xml'
+11:05:35.735 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:05:35.763 [main] DEBUG - Save content types part
+11:05:35.767 [main] DEBUG - Save package relationships
+11:05:35.770 [main] DEBUG - Save part 'docProps/app.xml'
+11:05:35.771 [main] DEBUG - Save part 'docProps/core.xml'
+11:05:35.774 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:05:35.774 [main] DEBUG - Save part 'xl/styles.xml'
+11:05:35.774 [main] DEBUG - Save part 'xl/workbook.xml'
+11:05:35.778 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:05:36.089 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+11:05:40.239 [main] INFO  - Navigated to the Used Cars Page
+11:05:44.035 [main] DEBUG - Save core properties part
+11:05:44.035 [main] DEBUG - Save content types part
+11:05:44.038 [main] DEBUG - Save package relationships
+11:05:44.042 [main] DEBUG - Save part 'docProps/app.xml'
+11:05:44.043 [main] DEBUG - Save part 'docProps/core.xml'
+11:05:44.046 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:05:44.047 [main] DEBUG - Save part 'xl/styles.xml'
+11:05:44.047 [main] DEBUG - Save part 'xl/workbook.xml'
+11:05:44.051 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:05:44.054 [main] DEBUG - Save content types part
+11:05:44.058 [main] DEBUG - Save package relationships
+11:05:44.062 [main] DEBUG - Save part 'docProps/app.xml'
+11:05:44.062 [main] DEBUG - Save part 'docProps/core.xml'
+11:05:44.065 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:05:44.066 [main] DEBUG - Save part 'xl/styles.xml'
+11:05:44.067 [main] DEBUG - Save part 'xl/workbook.xml'
+11:05:44.069 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:05:45.809 [main] INFO  - User is On ZigWheels Home Page
+11:05:48.029 [main] INFO  - User is On Login Window
+11:05:50.260 [main] INFO  - User is On Google Account Login
+11:06:43.974 [main] INFO  - Navigated to the the ZigWheels Website
+11:06:47.474 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+11:06:49.984 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:06:49.989 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:06:49.991 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:06:49.992 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:06:49.992 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:06:49.994 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:06:50.014 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:06:50.016 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:06:50.024 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:06:50.026 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:06:50.028 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:06:50.029 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:06:50.031 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:06:50.033 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:06:50.104 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:06:50.106 [main] TRACE - Resolving type for handle ctworkbook83c3type
+11:06:50.186 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+11:06:50.201 [main] TRACE - Resolving type for handle ctbookviewsb864type
+11:06:50.205 [main] TRACE - Resolving type for handle ctbookviewf677type
+11:06:50.219 [main] TRACE - Resolving type for handle ctsheets49fdtype
+11:06:50.224 [main] TRACE - Resolving type for handle propertiesee84doctype
+11:06:50.229 [main] TRACE - Resolving type for handle ctproperties3f10type
+11:06:50.240 [main] TRACE - Resolving type for handle properties288cdoctype
+11:06:50.244 [main] TRACE - Resolving type for handle ctproperties2c18type
+11:06:50.256 [main] TRACE - Resolving type for handle sstf81fdoctype
+11:06:50.259 [main] TRACE - Resolving type for handle ctsst44f3type
+11:06:50.267 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+11:06:50.269 [main] TRACE - Resolving type for handle ctstylesheet4257type
+11:06:50.276 [main] TRACE - Resolving type for handle ctfont14d8type
+11:06:50.291 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+11:06:50.304 [main] TRACE - Resolving type for handle ctcolord2c2type
+11:06:50.308 [main] TRACE - Resolving type for handle ctfontname2dc3type
+11:06:50.312 [main] TRACE - Resolving type for handle stxstringf179type
+11:06:50.319 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+11:06:50.322 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+11:06:50.329 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+11:06:50.334 [main] TRACE - Resolving type for handle stfontschemef36dtype
+11:06:50.341 [main] TRACE - Resolving type for handle ctfill550ctype
+11:06:50.344 [main] TRACE - Resolving type for handle ctpatternfill7452type
+11:06:50.350 [main] TRACE - Resolving type for handle stpatterntype7939type
+11:06:50.357 [main] TRACE - Resolving type for handle ctborderf935type
+11:06:50.361 [main] TRACE - Resolving type for handle ctborderpre497type
+11:06:50.369 [main] TRACE - Resolving type for handle ctxf97f7type
+11:06:50.373 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+11:06:50.375 [main] TRACE - Resolving type for handle stfontid9d63type
+11:06:50.378 [main] TRACE - Resolving type for handle stfillida097type
+11:06:50.380 [main] TRACE - Resolving type for handle stborderid1a80type
+11:06:50.383 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+11:06:50.392 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:06:50.399 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:06:50.407 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:06:50.415 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:06:50.421 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:06:50.429 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:06:50.432 [main] TRACE - Resolving type for handle stref90a2type
+11:06:50.434 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:06:50.437 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:06:50.444 [main] TRACE - Resolving type for handle ctcols627ctype
+11:06:50.447 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:06:50.452 [main] TRACE - Resolving type for handle ctrowdd39type
+11:06:50.461 [main] TRACE - Resolving type for handle ctcell842btype
+11:06:50.473 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:06:50.478 [main] TRACE - Resolving type for handle ctrsta472type
+11:06:50.480 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:06:50.656 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:06:50.660 [main] TRACE - Resolving type for handle ctfonts6623type
+11:06:50.665 [main] TRACE - Resolving type for handle ctfills2c6ftype
+11:06:50.669 [main] TRACE - Resolving type for handle ctborders0d66type
+11:06:50.673 [main] TRACE - Resolving type for handle ctcellxfs1322type
+11:06:50.677 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+11:06:50.708 [main] DEBUG - Save core properties part
+11:06:50.708 [main] DEBUG - Save content types part
+11:06:50.820 [main] DEBUG - Save package relationships
+11:06:50.829 [main] DEBUG - Save part 'docProps/app.xml'
+11:06:50.834 [main] DEBUG - Save part 'docProps/core.xml'
+11:06:50.844 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:06:50.845 [main] DEBUG - Save part 'xl/styles.xml'
+11:06:50.846 [main] DEBUG - Save part 'xl/workbook.xml'
+11:06:50.848 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:06:50.871 [main] DEBUG - Save content types part
+11:06:50.874 [main] DEBUG - Save package relationships
+11:06:50.876 [main] DEBUG - Save part 'docProps/app.xml'
+11:06:50.877 [main] DEBUG - Save part 'docProps/core.xml'
+11:06:50.879 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:06:50.881 [main] DEBUG - Save part 'xl/styles.xml'
+11:06:50.881 [main] DEBUG - Save part 'xl/workbook.xml'
+11:06:50.884 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:06:51.166 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+11:06:55.535 [main] INFO  - Navigated to the Used Cars Page
+11:06:59.074 [main] DEBUG - Save core properties part
+11:06:59.074 [main] DEBUG - Save content types part
+11:06:59.076 [main] DEBUG - Save package relationships
+11:06:59.078 [main] DEBUG - Save part 'docProps/app.xml'
+11:06:59.078 [main] DEBUG - Save part 'docProps/core.xml'
+11:06:59.081 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:06:59.081 [main] DEBUG - Save part 'xl/styles.xml'
+11:06:59.082 [main] DEBUG - Save part 'xl/workbook.xml'
+11:06:59.084 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:06:59.086 [main] DEBUG - Save content types part
+11:06:59.089 [main] DEBUG - Save package relationships
+11:06:59.091 [main] DEBUG - Save part 'docProps/app.xml'
+11:06:59.091 [main] DEBUG - Save part 'docProps/core.xml'
+11:06:59.093 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:06:59.094 [main] DEBUG - Save part 'xl/styles.xml'
+11:06:59.094 [main] DEBUG - Save part 'xl/workbook.xml'
+11:06:59.096 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:07:00.855 [main] INFO  - User is On ZigWheels Home Page
+11:07:02.936 [main] INFO  - User is On Login Window
+11:07:05.008 [main] INFO  - User is On Google Account Login
+11:19:52.985 [main] INFO  - Navigated to the the ZigWheels Website
+11:19:56.287 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+11:19:58.867 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:19:58.871 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:19:58.871 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:19:58.873 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:19:58.873 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:19:58.873 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:19:58.896 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:19:58.898 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:19:58.904 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:19:58.904 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:19:58.904 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:19:58.915 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:19:58.915 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:19:58.917 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:19:58.987 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:19:58.993 [main] TRACE - Resolving type for handle ctworkbook83c3type
+11:19:59.070 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+11:19:59.087 [main] TRACE - Resolving type for handle ctbookviewsb864type
+11:19:59.092 [main] TRACE - Resolving type for handle ctbookviewf677type
+11:19:59.104 [main] TRACE - Resolving type for handle ctsheets49fdtype
+11:19:59.104 [main] TRACE - Resolving type for handle propertiesee84doctype
+11:19:59.109 [main] TRACE - Resolving type for handle ctproperties3f10type
+11:19:59.120 [main] TRACE - Resolving type for handle properties288cdoctype
+11:19:59.120 [main] TRACE - Resolving type for handle ctproperties2c18type
+11:19:59.142 [main] TRACE - Resolving type for handle sstf81fdoctype
+11:19:59.144 [main] TRACE - Resolving type for handle ctsst44f3type
+11:19:59.156 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+11:19:59.159 [main] TRACE - Resolving type for handle ctstylesheet4257type
+11:19:59.159 [main] TRACE - Resolving type for handle ctfont14d8type
+11:19:59.176 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+11:19:59.182 [main] TRACE - Resolving type for handle ctcolord2c2type
+11:19:59.184 [main] TRACE - Resolving type for handle ctfontname2dc3type
+11:19:59.187 [main] TRACE - Resolving type for handle stxstringf179type
+11:19:59.187 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+11:19:59.187 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+11:19:59.198 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+11:19:59.206 [main] TRACE - Resolving type for handle stfontschemef36dtype
+11:19:59.211 [main] TRACE - Resolving type for handle ctfill550ctype
+11:19:59.215 [main] TRACE - Resolving type for handle ctpatternfill7452type
+11:19:59.215 [main] TRACE - Resolving type for handle stpatterntype7939type
+11:19:59.224 [main] TRACE - Resolving type for handle ctborderf935type
+11:19:59.228 [main] TRACE - Resolving type for handle ctborderpre497type
+11:19:59.234 [main] TRACE - Resolving type for handle ctxf97f7type
+11:19:59.240 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+11:19:59.242 [main] TRACE - Resolving type for handle stfontid9d63type
+11:19:59.243 [main] TRACE - Resolving type for handle stfillida097type
+11:19:59.245 [main] TRACE - Resolving type for handle stborderid1a80type
+11:19:59.247 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+11:19:59.247 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:19:59.247 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:19:59.263 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:19:59.263 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:19:59.275 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:19:59.280 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:19:59.280 [main] TRACE - Resolving type for handle stref90a2type
+11:19:59.280 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:19:59.280 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:19:59.296 [main] TRACE - Resolving type for handle ctcols627ctype
+11:19:59.298 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:19:59.302 [main] TRACE - Resolving type for handle ctrowdd39type
+11:19:59.310 [main] TRACE - Resolving type for handle ctcell842btype
+11:19:59.310 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:19:59.310 [main] TRACE - Resolving type for handle ctrsta472type
+11:19:59.328 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:19:59.500 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:19:59.503 [main] TRACE - Resolving type for handle ctfonts6623type
+11:19:59.508 [main] TRACE - Resolving type for handle ctfills2c6ftype
+11:19:59.510 [main] TRACE - Resolving type for handle ctborders0d66type
+11:19:59.510 [main] TRACE - Resolving type for handle ctcellxfs1322type
+11:19:59.517 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+11:19:59.533 [main] DEBUG - Save core properties part
+11:19:59.533 [main] DEBUG - Save content types part
+11:19:59.665 [main] DEBUG - Save package relationships
+11:19:59.675 [main] DEBUG - Save part 'docProps/app.xml'
+11:19:59.681 [main] DEBUG - Save part 'docProps/core.xml'
+11:19:59.693 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:19:59.693 [main] DEBUG - Save part 'xl/styles.xml'
+11:19:59.693 [main] DEBUG - Save part 'xl/workbook.xml'
+11:19:59.697 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:19:59.720 [main] DEBUG - Save content types part
+11:19:59.723 [main] DEBUG - Save package relationships
+11:19:59.725 [main] DEBUG - Save part 'docProps/app.xml'
+11:19:59.725 [main] DEBUG - Save part 'docProps/core.xml'
+11:19:59.728 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:19:59.728 [main] DEBUG - Save part 'xl/styles.xml'
+11:19:59.728 [main] DEBUG - Save part 'xl/workbook.xml'
+11:19:59.728 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:20:00.035 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+11:20:04.695 [main] INFO  - Navigated to the Used Cars Page
+11:20:08.317 [main] DEBUG - Save core properties part
+11:20:08.317 [main] DEBUG - Save content types part
+11:20:08.324 [main] DEBUG - Save package relationships
+11:20:08.326 [main] DEBUG - Save part 'docProps/app.xml'
+11:20:08.326 [main] DEBUG - Save part 'docProps/core.xml'
+11:20:08.326 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:20:08.329 [main] DEBUG - Save part 'xl/styles.xml'
+11:20:08.329 [main] DEBUG - Save part 'xl/workbook.xml'
+11:20:08.331 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:20:08.331 [main] DEBUG - Save content types part
+11:20:08.331 [main] DEBUG - Save package relationships
+11:20:08.331 [main] DEBUG - Save part 'docProps/app.xml'
+11:20:08.331 [main] DEBUG - Save part 'docProps/core.xml'
+11:20:08.331 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:20:08.331 [main] DEBUG - Save part 'xl/styles.xml'
+11:20:08.331 [main] DEBUG - Save part 'xl/workbook.xml'
+11:20:08.331 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:20:09.803 [main] INFO  - User is On ZigWheels Home Page
+11:20:11.819 [main] INFO  - User is On Login Window
+11:20:14.175 [main] INFO  - User is On Google Account Login
+11:21:39.505 [main] INFO  - Navigated to the the ZigWheels Website
+11:21:42.839 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+11:21:45.402 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:21:45.402 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:21:45.407 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:21:45.407 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:21:45.411 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:21:45.413 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:21:45.427 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:21:45.436 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:21:45.443 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:21:45.443 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:21:45.443 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:21:45.443 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:21:45.443 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:21:45.443 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:21:45.518 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:21:45.523 [main] TRACE - Resolving type for handle ctworkbook83c3type
+11:21:45.597 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+11:21:45.608 [main] TRACE - Resolving type for handle ctbookviewsb864type
+11:21:45.618 [main] TRACE - Resolving type for handle ctbookviewf677type
+11:21:45.628 [main] TRACE - Resolving type for handle ctsheets49fdtype
+11:21:45.628 [main] TRACE - Resolving type for handle propertiesee84doctype
+11:21:45.643 [main] TRACE - Resolving type for handle ctproperties3f10type
+11:21:45.650 [main] TRACE - Resolving type for handle properties288cdoctype
+11:21:45.653 [main] TRACE - Resolving type for handle ctproperties2c18type
+11:21:45.667 [main] TRACE - Resolving type for handle sstf81fdoctype
+11:21:45.671 [main] TRACE - Resolving type for handle ctsst44f3type
+11:21:45.683 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+11:21:45.685 [main] TRACE - Resolving type for handle ctstylesheet4257type
+11:21:45.695 [main] TRACE - Resolving type for handle ctfont14d8type
+11:21:45.706 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+11:21:45.717 [main] TRACE - Resolving type for handle ctcolord2c2type
+11:21:45.727 [main] TRACE - Resolving type for handle ctfontname2dc3type
+11:21:45.733 [main] TRACE - Resolving type for handle stxstringf179type
+11:21:45.733 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+11:21:45.742 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+11:21:45.742 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+11:21:45.742 [main] TRACE - Resolving type for handle stfontschemef36dtype
+11:21:45.760 [main] TRACE - Resolving type for handle ctfill550ctype
+11:21:45.762 [main] TRACE - Resolving type for handle ctpatternfill7452type
+11:21:45.762 [main] TRACE - Resolving type for handle stpatterntype7939type
+11:21:45.762 [main] TRACE - Resolving type for handle ctborderf935type
+11:21:45.762 [main] TRACE - Resolving type for handle ctborderpre497type
+11:21:45.773 [main] TRACE - Resolving type for handle ctxf97f7type
+11:21:45.773 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+11:21:45.773 [main] TRACE - Resolving type for handle stfontid9d63type
+11:21:45.789 [main] TRACE - Resolving type for handle stfillida097type
+11:21:45.789 [main] TRACE - Resolving type for handle stborderid1a80type
+11:21:45.789 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+11:21:45.789 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:21:45.805 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:21:45.819 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:21:45.827 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:21:45.828 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:21:45.833 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:21:45.841 [main] TRACE - Resolving type for handle stref90a2type
+11:21:45.841 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:21:45.841 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:21:45.841 [main] TRACE - Resolving type for handle ctcols627ctype
+11:21:45.841 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:21:45.857 [main] TRACE - Resolving type for handle ctrowdd39type
+11:21:45.857 [main] TRACE - Resolving type for handle ctcell842btype
+11:21:45.874 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:21:45.889 [main] TRACE - Resolving type for handle ctrsta472type
+11:21:45.889 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:21:46.085 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:21:46.085 [main] TRACE - Resolving type for handle ctfonts6623type
+11:21:46.095 [main] TRACE - Resolving type for handle ctfills2c6ftype
+11:21:46.095 [main] TRACE - Resolving type for handle ctborders0d66type
+11:21:46.103 [main] TRACE - Resolving type for handle ctcellxfs1322type
+11:21:46.103 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+11:21:46.127 [main] DEBUG - Save core properties part
+11:21:46.127 [main] DEBUG - Save content types part
+11:21:46.222 [main] DEBUG - Save package relationships
+11:21:46.238 [main] DEBUG - Save part 'docProps/app.xml'
+11:21:46.238 [main] DEBUG - Save part 'docProps/core.xml'
+11:21:46.246 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:21:46.246 [main] DEBUG - Save part 'xl/styles.xml'
+11:21:46.246 [main] DEBUG - Save part 'xl/workbook.xml'
+11:21:46.254 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:21:46.275 [main] DEBUG - Save content types part
+11:21:46.275 [main] DEBUG - Save package relationships
+11:21:46.275 [main] DEBUG - Save part 'docProps/app.xml'
+11:21:46.275 [main] DEBUG - Save part 'docProps/core.xml'
+11:21:46.275 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:21:46.275 [main] DEBUG - Save part 'xl/styles.xml'
+11:21:46.275 [main] DEBUG - Save part 'xl/workbook.xml'
+11:21:46.275 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:21:46.584 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+11:21:50.939 [main] INFO  - Navigated to the Used Cars Page
+11:21:54.034 [main] DEBUG - Save core properties part
+11:21:54.034 [main] DEBUG - Save content types part
+11:21:54.034 [main] DEBUG - Save package relationships
+11:21:54.034 [main] DEBUG - Save part 'docProps/app.xml'
+11:21:54.034 [main] DEBUG - Save part 'docProps/core.xml'
+11:21:54.034 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:21:54.047 [main] DEBUG - Save part 'xl/styles.xml'
+11:21:54.047 [main] DEBUG - Save part 'xl/workbook.xml'
+11:21:54.047 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:21:54.051 [main] DEBUG - Save content types part
+11:21:54.051 [main] DEBUG - Save package relationships
+11:21:54.051 [main] DEBUG - Save part 'docProps/app.xml'
+11:21:54.051 [main] DEBUG - Save part 'docProps/core.xml'
+11:21:54.051 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:21:54.051 [main] DEBUG - Save part 'xl/styles.xml'
+11:21:54.051 [main] DEBUG - Save part 'xl/workbook.xml'
+11:21:54.051 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:21:55.485 [main] INFO  - User is On ZigWheels Home Page
+11:21:57.451 [main] INFO  - User is On Login Window
+11:21:59.680 [main] INFO  - User is On Google Account Login
+11:31:00.772 [main] INFO  - Navigated to the the ZigWheels Website
+11:31:03.425 [main] INFO  - Navigated to the the Upcoming Bikes In India Page
+11:31:06.266 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:31:06.266 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:31:06.274 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:31:06.274 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:31:06.277 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:31:06.277 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS

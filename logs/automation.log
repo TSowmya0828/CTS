@@ -1,0 +1,61 @@
+11:09:06.003 [main] TRACE - Resolving type for handle ctsheet4dbetype
+11:09:06.028 [main] TRACE - Resolving type for handle ctworksheet530dtype
+11:09:06.036 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+11:09:06.042 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+11:09:06.048 [main] TRACE - Resolving type for handle ctsheetview0f43type
+11:09:06.060 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+11:09:06.060 [main] TRACE - Resolving type for handle stref90a2type
+11:09:06.065 [main] TRACE - Resolving type for handle ctsheetdata8408type
+11:09:06.068 [main] TRACE - Resolving type for handle ctpagemargins5455type
+11:09:06.073 [main] TRACE - Resolving type for handle ctcols627ctype
+11:09:06.078 [main] TRACE - Resolving type for handle strelationshipid1e94type
+11:09:06.078 [main] TRACE - Resolving type for handle ctrowdd39type
+11:09:06.095 [main] TRACE - Resolving type for handle ctcell842btype
+11:09:06.107 [main] TRACE - Resolving type for handle stcellrefe4e0type
+11:09:06.113 [main] TRACE - Resolving type for handle ctrsta472type
+11:09:06.115 [main] TRACE - Resolving type for handle stcelltypebf95type
+11:09:06.288 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+11:09:06.294 [main] TRACE - Resolving type for handle ctfonts6623type
+11:09:06.302 [main] TRACE - Resolving type for handle ctfills2c6ftype
+11:09:06.306 [main] TRACE - Resolving type for handle ctborders0d66type
+11:09:06.310 [main] TRACE - Resolving type for handle ctcellxfs1322type
+11:09:06.316 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+11:09:06.348 [main] DEBUG - Save core properties part
+11:09:06.350 [main] DEBUG - Save content types part
+11:09:06.501 [main] DEBUG - Save package relationships
+11:09:06.513 [main] DEBUG - Save part 'docProps/app.xml'
+11:09:06.521 [main] DEBUG - Save part 'docProps/core.xml'
+11:09:06.531 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:09:06.531 [main] DEBUG - Save part 'xl/styles.xml'
+11:09:06.533 [main] DEBUG - Save part 'xl/workbook.xml'
+11:09:06.533 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:09:06.558 [main] DEBUG - Save content types part
+11:09:06.561 [main] DEBUG - Save package relationships
+11:09:06.565 [main] DEBUG - Save part 'docProps/app.xml'
+11:09:06.565 [main] DEBUG - Save part 'docProps/core.xml'
+11:09:06.567 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:09:06.569 [main] DEBUG - Save part 'xl/styles.xml'
+11:09:06.569 [main] DEBUG - Save part 'xl/workbook.xml'
+11:09:06.571 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:09:06.896 [main] INFO  - User is On Honda Upcoming Bikes In India Page
+11:09:11.320 [main] INFO  - Navigated to the Used Cars Page
+11:09:15.527 [main] DEBUG - Save core properties part
+11:09:15.527 [main] DEBUG - Save content types part
+11:09:15.527 [main] DEBUG - Save package relationships
+11:09:15.527 [main] DEBUG - Save part 'docProps/app.xml'
+11:09:15.527 [main] DEBUG - Save part 'docProps/core.xml'
+11:09:15.527 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:09:15.527 [main] DEBUG - Save part 'xl/styles.xml'
+11:09:15.527 [main] DEBUG - Save part 'xl/workbook.xml'
+11:09:15.543 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:09:15.545 [main] DEBUG - Save content types part
+11:09:15.547 [main] DEBUG - Save package relationships
+11:09:15.547 [main] DEBUG - Save part 'docProps/app.xml'
+11:09:15.547 [main] DEBUG - Save part 'docProps/core.xml'
+11:09:15.547 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:09:15.552 [main] DEBUG - Save part 'xl/styles.xml'
+11:09:15.552 [main] DEBUG - Save part 'xl/workbook.xml'
+11:09:15.552 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:09:17.451 [main] INFO  - User is On ZigWheels Home Page
+11:09:19.028 [main] INFO  - User is On Login Window
+11:09:21.300 [main] INFO  - User is On Google Account Login
